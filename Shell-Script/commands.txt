@@ -1,0 +1,9 @@
+This is file for todays commands
+
+
+git init
+git add
+git commit
+git restore
+git log
+git global --config user.name
