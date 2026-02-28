@@ -1,5 +1,5 @@
 #!/bin/bash
-
+########################### User Management Project #######################################
 # Check root
 if [ "$EUID" -ne 0 ]; then
   echo "Run as root (sudo)"
